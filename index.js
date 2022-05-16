@@ -10,3 +10,4 @@ function oddNumbers(inputArray) {
 
 oddNumbers([7, 8])
 //oddNumbers([1, 2, 3, 4, 5, 6])
+//adding a comment for github test
